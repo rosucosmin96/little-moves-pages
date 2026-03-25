@@ -29,21 +29,26 @@ Little Moves is designed to stay quiet and practical:
 
 ## App Screenshots
 
-### Log Screen
-
-![Little Moves Log screen](./images/log-screen.png)
-
-### History Screen
-
-![Little Moves History screen](./images/history-screen.png)
-
-### Settings Screen
-
-![Little Moves Settings screen](./images/settings-screen.png)
-
-### Pro Features
-
-![Little Moves Pro features](./images/pro-features.png)
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <strong>Log Screen</strong><br>
+      <img src="./images/log-screen.png" alt="Little Moves Log screen" width="100%">
+    </td>
+    <td width="25%" align="center">
+      <strong>History Screen</strong><br>
+      <img src="./images/history-screen.png" alt="Little Moves History screen" width="100%">
+    </td>
+    <td width="25%" align="center">
+      <strong>Settings Screen</strong><br>
+      <img src="./images/settings-screen.png" alt="Little Moves Settings screen" width="100%">
+    </td>
+    <td width="25%" align="center">
+      <strong>Pro Features</strong><br>
+      <img src="./images/pro-features.png" alt="Little Moves Pro features" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## Support And Legal
 
