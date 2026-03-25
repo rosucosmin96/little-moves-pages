@@ -4,6 +4,12 @@ Last updated: March 12, 2026
 
 These Terms of Use govern your use of Little Moves. By downloading, accessing, or using the app, you agree to these Terms.
 
+## Navigation
+
+- [Home](https://rosucosmin96.github.io/little-moves-pages/home)
+- [Support](https://rosucosmin96.github.io/little-moves-pages/support)
+- [Privacy Policy](https://rosucosmin96.github.io/little-moves-pages/privacy-policy)
+
 ## App Description
 
 Little Moves is a simple activity logging and reminder app. It helps users record small physical activities, review their history, and receive gentle reminders to move throughout the day.
