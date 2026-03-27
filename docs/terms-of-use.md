@@ -6,7 +6,7 @@ These Terms of Use govern your use of Little Moves. By downloading, accessing, o
 
 ## Navigation
 
-- [Home](https://rosucosmin96.github.io/little-moves-pages/home)
+- [Home](https://rosucosmin96.github.io/little-moves-pages/)
 - [Support](https://rosucosmin96.github.io/little-moves-pages/support)
 - [Privacy Policy](https://rosucosmin96.github.io/little-moves-pages/privacy-policy)
 

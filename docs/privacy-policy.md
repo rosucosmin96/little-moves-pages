@@ -6,7 +6,7 @@ This Privacy Policy explains how Little Moves handles information when you use t
 
 ## Navigation
 
-- [Home](https://rosucosmin96.github.io/little-moves-pages/home)
+- [Home](https://rosucosmin96.github.io/little-moves-pages/)
 - [Support](https://rosucosmin96.github.io/little-moves-pages/support)
 - [Terms of Use](https://rosucosmin96.github.io/little-moves-pages/terms-of-use)
 

@@ -6,7 +6,7 @@ Little Moves is a simple activity logging and reminder app designed to help you 
 
 ## Navigation
 
-- [Home](https://rosucosmin96.github.io/little-moves-pages/home)
+- [Home](https://rosucosmin96.github.io/little-moves-pages/)
 - [Privacy Policy](https://rosucosmin96.github.io/little-moves-pages/privacy-policy)
 - [Terms of Use](https://rosucosmin96.github.io/little-moves-pages/terms-of-use)
 
